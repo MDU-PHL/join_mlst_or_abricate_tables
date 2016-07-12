@@ -5,7 +5,7 @@
 Join mlst2 or abricate/resistome tables from nullarbor runs.
 Email: dr.mark.schultz@gmail.com
 Github: https://github.com/schultzm
-YYYMMDD_HHMM: 20160712_1200
+YYYMMDD_HHMM: 20160712_2100
 '''
 
 
