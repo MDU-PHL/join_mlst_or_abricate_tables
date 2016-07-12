@@ -26,8 +26,8 @@ ARGS = PARSER.parse_args()
 
 def main():
     '''
-    This main function will read in each table file, run create_frame on each
-    infile, store each frame in a list, concatenate the list to a new
+    This main function will get the list of table infiles, run create_frame on 
+    each infile, store each frame in a list, concatenate the list to a new
     dataframe, clean the dataframe, print the data frame and then write it
     to file.
     '''
